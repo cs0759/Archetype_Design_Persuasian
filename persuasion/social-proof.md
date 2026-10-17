@@ -1,6 +1,6 @@
 # Social Proof
 
-[Home](README.md) | [Persuasion Principles](persuasion/README.md)
+[Home](../README.md) | [Persuasion Principles](README.md)
 
 ## What Is Social Proof?
 
