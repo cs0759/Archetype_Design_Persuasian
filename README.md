@@ -31,6 +31,7 @@ Explore visual archetypes through modernist and postmodernist design approaches.
 ## Team Members
 
 - [Ceren Sahin](members/ceren_sahin.md)
+- [Ximena Macavilca](members/ximena_macavilca.md)
 
 Additional team member pages will be linked as they are completed.
 
