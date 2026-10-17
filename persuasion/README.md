@@ -4,7 +4,7 @@
 
 ## About This Section
 
-This section explores principles of persuasion and how they can be applied to web design, user experience, and digital interfaces.
+This section explores Robert Cialdini's seven principles of persuasion and how they can be applied to web design, user experience, and digital interfaces.
 
 ## Persuasion Pages
 
@@ -16,7 +16,13 @@ This section explores principles of persuasion and how they can be applied to we
 | [Authority](../authority.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 | [Liking](../liking.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 | [Scarcity](../scarcity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Unity](../unity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 
-## Additional Principles
+## About the Principles
 
-The remaining persuasion principles will be added as the team completes their pages.
+These seven principles describe psychological factors that influence how people make decisions. Understanding them can help designers create more effective digital experiences while considering the ethical responsibilities of persuasive design.
+
+## Sources
+
+- [Influence at Work — Principles of Persuasion](https://www.influenceatwork.com/principles-of-persuasion/)
+- [Robert Cialdini — Influence: The Psychology of Persuasion](https://www.harpercollins.com/products/influence-new-and-expanded-robert-b-cialdini)
