@@ -15,6 +15,7 @@ This section explores principles of persuasion and how they can be applied to we
 | [Social Proof](../social-proof.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 | [Authority](../authority.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 | [Liking](../liking.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Scarcity](../scarcity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 
 ## Additional Principles
 
