@@ -1,5 +1,7 @@
 # Commitment and Consistency
 
+[Home](../README.md) | [Persuasion Principles](README.md)
+
 ## What is it?
 
 Commitment and consistency is the principle that people tend to act in ways that are consistent with decisions or commitments they have already made. Once someone makes a choice or takes a position, they may be more willing to continue behaving in a way that supports that earlier decision.
