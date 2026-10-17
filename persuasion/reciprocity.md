@@ -1,5 +1,7 @@
 # Reciprocity
 
+[Home](../README.md) | [Persuasion Principles](README.md)
+
 ## What is it?
 
 Reciprocity is the idea that people often feel an obligation to return a favor after receiving something from someone else. In persuasion, this principle can be used by providing something useful or valuable first, which may make a person more willing to respond positively to a later request.
