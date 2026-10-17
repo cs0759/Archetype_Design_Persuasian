@@ -10,13 +10,13 @@ This section explores Robert Cialdini's seven principles of persuasion and how t
 
 | Principle | Contributor |
 |---|---|
-| [Reciprocity](../reciprocity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Commitment and Consistency](../consistency.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Social Proof](../social-proof.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Authority](../authority.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Liking](../liking.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Scarcity](../scarcity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
-| [Unity](../unity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Reciprocity](reciprocity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Commitment and Consistency](consistency.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Social Proof](social-proof.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Authority](authority.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Liking](liking.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Scarcity](scarcity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
+| [Unity](unity.md) | [Ceren Sahin](../members/ceren_sahin.md) |
 
 ## About the Principles
 
